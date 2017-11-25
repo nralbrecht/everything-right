@@ -1,0 +1,14 @@
+{
+	"extensionDescription": {
+		"message": "Öffnet alle neuen Tabs am rechten Ende der Tableiste.",
+		"description": "Beschreibung des Add-ons."
+	},
+	"loadInBackgroundName": {
+		"message": "Tabs im Vordergrund öffnen",
+		"description": "Name der loadInBackground Option"
+	},
+	"loadInBackgroundDescription": {
+		"message": "Wenn aktiv, werden alle vom Add-on betroffenen Tabs im Vordergrund geöffnet. Diese Option ersetzt die globale Einstellung für diese Tabs.",
+		"description": "Beschreibung der loadInBackground Option"
+	}
+}
